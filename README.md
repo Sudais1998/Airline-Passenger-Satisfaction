@@ -1,14 +1,16 @@
 # Airline Passenger Satisfaction Dashboard
 
 ## Table of Contents
-- [Project Overview](project-overview)
-- [Data Sources](data-sources)
-- Tools & Technologies
-- Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
-- Key Findings
-- Recommendations
-- Limitations
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Author](#author)
+- [License](#license)
 
 ## Project Overview
 This data analysis project aims to evaluate airline passenger satisfaction by analyzing survey responses and flight data. The goal is to uncover key factors affecting passenger experience, identify trends, and provide insights that airlines can leverage to improve service quality.
