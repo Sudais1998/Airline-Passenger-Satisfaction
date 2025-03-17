@@ -1,8 +1,8 @@
 # Airline Passenger Satisfaction Dashboard
 
 ## Table of Contents
-- Project Overview
-- Data Sources
+- [Project Overview](project-overview)
+- [Data Sources](data-sources)
 - Tools & Technologies
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
