@@ -3,32 +3,31 @@
 ![NZ Flag](https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg)  
 
 ---  
-
 ## 📌 **Table of Contents** 🗂️  
 
 1️⃣ [📚 Project Overview](#-project-overview)  
 2️⃣ [📂 Data Sources](#-data-sources)  
 3️⃣ [🛠 Tools & Technologies](#-tools--technologies)  
-4️⃣ [🧜‍♂️ Data Cleaning Process](#-data-cleaning-process)  
+4️⃣ [🔍 Data Cleaning & Preparation](#-data-cleaning--preparation)  
    - 🔹 [Duplicate & Missing Values Handling](#duplicate--missing-values-handling)  
    - 🔹 [Standardization & Formatting](#standardization--formatting)  
 5️⃣ [📊 Data Analysis](#-data-analysis)  
-   - 🔹 [Top Stolen Vehicle Models](#top-stolen-vehicle-models)  
-   - 🔹 [High-Risk Locations](#high-risk-locations)  
-   - 🔹 [Time & Seasonal Trends](#time--seasonal-trends)  
-   - 🔹 [Recovery & Law Enforcement Efficiency](#recovery--law-enforcement-efficiency)  
+   - 🔹 [Stolen Vehicle Trends](#-stolen-vehicle-trends)  
+   - 🔹 [Geographic Hotspots](#-geographic-hotspots)  
+   - 🔹 [Temporal Patterns](#-temporal-patterns)  
+   - 🔹 [Common Vehicle Makes & Models](#-common-vehicle-makes--models)  
 6️⃣ [📈 Key Insights](#-key-insights)  
 7️⃣ [🎯 Recommendations](#-recommendations)  
-   - 🔹 [Enhancing Vehicle Security](#enhancing-vehicle-security)  
-   - 🔹 [Law Enforcement & Policy Improvements](#law-enforcement--policy-improvements)  
-   - 🔹 [Data-Driven Crime Prevention Strategies](#data-driven-crime-prevention-strategies)  
-8️⃣ [🚀 Future Improvements](#-future-improvements)  
+   - 🔹 [Law Enforcement Strategies](#-law-enforcement-strategies)  
+   - 🔹 [Preventive Measures for Vehicle Owners](#-preventive-measures-for-vehicle-owners)  
+   - 🔹 [Data-Driven Crime Prevention](#-data-driven-crime-prevention)  
+8️⃣ [🚀 Future Enhancements](#-future-enhancements)  
 9️⃣ [⚠ Challenges](#-challenges)  
-🔹 [📝 Limitations](#-limitations)  
+🔟 [📜 Limitations](#-limitations)  
 🔹 [✍️ Author](#-author)  
 🔹 [📌 License](#-license)  
 
----  
+--- 
 
 ## 📊 Project Overview  
 
